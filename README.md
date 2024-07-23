@@ -1,6 +1,6 @@
 # Digital_Signatures_WPF_App
-implementing digital signatures in a WPF application(Unsigned Exe)
-implementing digital signatures in a WPF application:
+**implementing digital signatures in a WPF application(Unsigned Exe)**
+
 
 ---
 
