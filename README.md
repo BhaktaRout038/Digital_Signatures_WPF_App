@@ -179,7 +179,7 @@ Parameters:
    - **/pa** checks for a valid signature chain to a trusted root.
    - **/v** provides verbose output.
 3. **you can also use sigcheck exe to check verify status**
-   - download the sigcheck exe (https://learn.microsoft.com/en-us/sysinternals/downloads/sigcheck)  & setup the environment variable path
+   - download the [sigcheck exe](https://learn.microsoft.com/en-us/sysinternals/downloads/sigcheck) & setup the environment variable path
    - open cmd command
    ```cmd
      sigcheck.exe DriveName:\pathto\bin\Debug\Myapp.exe
